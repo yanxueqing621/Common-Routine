@@ -1,6 +1,11 @@
 Revision history for Common-Routine
 
-0.0.2 2016-03-23T02:26:36
+0.0.3 2016-03-23T08:41:14
+ [Yan Xueqing]
+ - Fixed test bug that most European languages use a comma representing
+   decimal point
+
+0.0.2 2016-03-23T02:26:36Z
  [Yan Xueqing]
  - Remove redunctant dependencies
 

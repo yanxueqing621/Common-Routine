@@ -4,7 +4,7 @@ Common::Routine - Common::Routine - Provide and synthesize very commonly used ro
 
 # VERSION
 
-version 0.0.2
+version 0.0.3
 
 # SYNOPSIS
 
