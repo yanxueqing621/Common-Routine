@@ -33,6 +33,9 @@ is (rtrim($str), "  abc", "rtrim");
 
 my $num = 3.56;
 is (round($num), 4, "round");
-cmp_ok (format_number($num, 1), "eq", 3.6, "format_number" );
+
+my $format_num = format_number($num, 1);
+$format_num =~s/,/\./;
+cmp_ok ($format_num, "eq", 3.6, "format_number" );
 
 done_testing;
