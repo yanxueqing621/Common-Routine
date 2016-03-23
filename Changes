@@ -1,7 +1,12 @@
 Revision history for Common-Routine
 
-0.0.1 2016-03-23T02:18:41
+0.0.2 2016-03-23T02:26:36
  [Yan Xueqing]
+ - Remove redunctant dependencies
+
+0.0.1 2016-03-23T02:18:43Z
+ [Yan Xueqing]
+ - Auto commited by dzil with version 0.0.1 at 23-Mar-2016
  - Add some comment functions
  - Initialize gitrepo with `dzil new`
 
