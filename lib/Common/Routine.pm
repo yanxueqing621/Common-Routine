@@ -19,7 +19,7 @@ our %EXPORT_TAGS = (
 );
 
 # VERSION
-# ABSTRACT: Common::Routine - Provide and synthesize very commonly used routines that are not provided in perl's build-in routines.
+# ABSTRACT: Provide and synthesize very commonly used routines that are not provided in perl's build-in routines.
 
 =head1 SYNOPSIS
 
