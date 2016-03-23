@@ -1,10 +1,10 @@
 # NAME
 
-Common::Routine - Common::Routine - Provide and synthesize very commonly used routines that are not provided in perl's build-in routines.
+Common::Routine - Provide and synthesize very commonly used routines that are not provided in perl's build-in routines.
 
 # VERSION
 
-version 0.0.3
+version 0.0.4
 
 # SYNOPSIS
 
