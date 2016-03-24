@@ -1,6 +1,10 @@
 Revision history for Common-Routine
 
-0.0.4 2016-03-23T09:57:19
+0.0.5 2016-03-24T01:22:14
+ [Yan Xueqing]
+ - Fix some bug of test file
+
+0.0.4 2016-03-23T09:57:19Z
  [Yan Xueqing]
  - Modified Name in readme file
 

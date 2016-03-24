@@ -4,7 +4,7 @@ Common::Routine - Provide and synthesize very commonly used routines that are no
 
 # VERSION
 
-version 0.0.4
+version 0.0.5
 
 # SYNOPSIS
 
